@@ -2,5 +2,7 @@
 assignment_solution/node_modules
 
 burgerApp/node_modules
+
 cypress/node_modules
+
 react-boilerplate-3.5.0/node_modules
